@@ -1,0 +1,26 @@
+Contexto:
+Somos uma pequena empresa de processamento  de dados.
+Precisamos criar uma aplicação web. 
+
+Objetivo:
+Atrair clientes através do google meu negocio e organicamente.
+
+Estilo:
+Crie uma aplicação com design minimalista, defacil leitura acesso.
+site estatico, com apenas 1 pagina. 
+que mostre nossos serviços de processamento de dados.
+e o contato. 
+preciso que tenha espaço para inserir 2 imagens referente ao serviços,
+configure em tamanho adequados para mobile e desktop.
+
+Tom:
+Profissional.
+
+Público:
+Pequenas empresas que necessitam de automoção e processamento dados. 
+
+Formato da resposta:
+Utilize a stack:
+Streamlit como template;
+github para hospedar o código
+A nuvem do streamlit para fazer o deploy
